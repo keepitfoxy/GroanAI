@@ -62,11 +62,22 @@ Projekt polegał na stworzeniu aplikacji generującej muzykę z wykorzystaniem s
 3. **Wykorzystanie dodatkowych źródeł danych:**
     - Dodanie możliwości importu i analizy plików muzycznych z różnych źródeł (np. plików audio, notacji muzycznej).
 
-#### Źródła:
+#### Odnośniki:
 1. **Pliki MIDI:** [Link do dysku z plikami MIDI](https://drive.google.com/drive/folders/19gxwtwRyicWi4KOZC7LbM9-sz20s__eZ)
 2. **Wygenerowana muzyka:** [Link do wygenerowanych plików](https://drive.google.com/drive/folders/1UR9vKEspERbCipf3xYm9FS1ahk9ZnLt9)
 3. **Generator:** [Link do notebooka z generatorem](https://colab.research.google.com/drive/1B4pAXS9-jzwWrTLpOZ0tKHMBG0LoEBHh#scrollTo=q3a6zIqNrKuM)
 4. **Model:** [Link do notebooka z modelem](https://colab.research.google.com/drive/1VOoD7d8BsoQsgswf-VFj9oke6KxfWQJT?usp=sharing)
+
+### Źródła
+- https://www.youtube.com/watch?v=RLYoEyIHL6A&ab_channel=DogaOzgon
+- https://www.youtube.com/watch?v=Wpkn4l5uTZY&ab_channel=Nobody%26TheComputer
+- https://github.com/flowese/UdioWrapper
+- https://www.youtube.com/watch?v=QUT1VHiLmmI&ab_channel=freeCodeCamp.org
+- https://stackoverflow.com/questions/76657708/ai-music-generator-plays-the-same-note-over-and-over
+
+
+
+
 
 #### Przygotowali:
 
